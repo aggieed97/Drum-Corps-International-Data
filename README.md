@@ -11,4 +11,4 @@ All data was scraped from the [Drum Corps International](https://www.dci.org/) w
 
 Feel free to do whatever analysis you would like with this data.
 
-Key Words: DCI, Drum Corps International, Blue Devils, Blue Knights, Blue Stars, Bluecoats, Boston Crusaders, Carolina Crown, Colts, Crossmen, Genesis, Jersey Surf, Madinson Scouts, Mandarins, Music City, Pacific Crest, Phantom Regiment, Santa Clara Vanguard, Seattle Cascades, Sprit of Atlanta, The Academy, The Cadets, The Cavaliers, Troopers, Competition
+Key Words: DCI, Drum Corps International, Blue Devils, Blue Knights, Blue Stars, Bluecoats, Boston Crusaders, Carolina Crown, Colts, Crossmen, Genesis, Jersey Surf, Madinson Scouts, Mandarins, Music City, Pacific Crest, Phantom Regiment, Santa Clara Vanguard, Seattle Cascades, Sprit of Atlanta, The Academy, The Cadets, The Cavaliers, Troopers, Competition, Marching Band
